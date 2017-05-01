@@ -1,0 +1,2 @@
+D:\Projects\Cats\Cats\Cats.WinPhone\Cats.WinPhone.csproj;neutral
+D:\Projects\Cats\Cats\Cats\Cats.csproj;neutral
